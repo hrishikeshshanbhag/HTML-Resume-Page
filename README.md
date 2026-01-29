@@ -19,11 +19,11 @@ Setup Steps <br>
 
 Clone the repository: 
  
-git clone https://github.com/your-username/resume-template.git <br>
+git clone (https://github.com/hrishikeshshanbhag/HTML-Resume-Page) <br>
 Open the project folder.  <br>
 Open ResumeTemplate.html in your browser.  <br>
- <br>
-That’s it ✅ 
+<br>
+That’s it ✅ <br>
  <br>
 Usage <br>
 Open ResumeTemplate.html <br> 
