@@ -1,33 +1,33 @@
-HTML Resume Template (HTML) 
-A simple resume template built using HTML. 
-This project demonstrates basic webpage structure creating a professional resume layout. 
+HTML Resume Template (HTML) <br>
+A simple resume template built using HTML. <br>
+This project demonstrates basic webpage structure creating a professional resume layout. <br>
  
 Screenshots 
 <img width="1902" height="752" alt="ScreenShot1" src="https://github.com/user-attachments/assets/26021099-4734-4f77-990b-5b09ef0b520a" /> 
 <img width="1898" height="867" alt="ScreenShot2" src="https://github.com/user-attachments/assets/a509f029-1f7e-4f98-b2c6-2f123631b61e" /> 
  
  
-Technologies Used 
-HTML5 
+Technologies Used <br>
+HTML5 <br>
  
-Project Structure 
-HTML-Resume-Page/ 
-│ 
-├── ResumeTemplate.html 
- 
-Setup Steps 
- 
+Project Structure <br>
+HTML-Resume-Page/ <br>
+│ <br>
+├── ResumeTemplate.html <br>
+ <br>
+Setup Steps <br>
+
 Clone the repository: 
  
-git clone https://github.com/your-username/resume-template.git 
-Open the project folder.  
-Open ResumeTemplate.html in your browser.  
- 
+git clone https://github.com/your-username/resume-template.git <br>
+Open the project folder.  <br>
+Open ResumeTemplate.html in your browser.  <br>
+ <br>
 That’s it ✅ 
- 
-Usage 
-Open ResumeTemplate.html  
-Replace the content with your:  
+ <br>
+Usage <br>
+Open ResumeTemplate.html <br> 
+Replace the content with your:  <br>
   
 - Name 
 - Contact details 
